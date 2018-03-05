@@ -3,7 +3,6 @@ import './App.css';
 import axios from 'axios';
 import Table from 'react-bootstrap/lib/Table';
 import Image from 'react-bootstrap/lib/Image';
-import 'font-awesome/css/font-awesome.css'
 
 class App extends Component {
 
